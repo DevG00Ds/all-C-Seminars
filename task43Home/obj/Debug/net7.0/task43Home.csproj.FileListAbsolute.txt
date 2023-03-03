@@ -1,0 +1,15 @@
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\bin\Debug\net7.0\task43Home.exe
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\bin\Debug\net7.0\task43Home.deps.json
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\bin\Debug\net7.0\task43Home.runtimeconfig.json
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\bin\Debug\net7.0\task43Home.dll
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\bin\Debug\net7.0\task43Home.pdb
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\obj\Debug\net7.0\task43Home.csproj.AssemblyReference.cache
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\obj\Debug\net7.0\task43Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\obj\Debug\net7.0\task43Home.AssemblyInfoInputs.cache
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\obj\Debug\net7.0\task43Home.AssemblyInfo.cs
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\obj\Debug\net7.0\task43Home.csproj.CoreCompileInputs.cache
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\obj\Debug\net7.0\task43Home.dll
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\obj\Debug\net7.0\refint\task43Home.dll
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\obj\Debug\net7.0\task43Home.pdb
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\obj\Debug\net7.0\task43Home.genruntimeconfig.cache
+C:\Users\semen\Desktop\GB\L3 C#_6\task43Home\obj\Debug\net7.0\ref\task43Home.dll
