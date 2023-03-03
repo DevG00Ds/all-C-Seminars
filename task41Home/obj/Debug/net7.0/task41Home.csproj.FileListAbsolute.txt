@@ -1,0 +1,15 @@
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\obj\Debug\net7.0\task41Home.csproj.AssemblyReference.cache
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\obj\Debug\net7.0\task41Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\obj\Debug\net7.0\task41Home.AssemblyInfoInputs.cache
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\obj\Debug\net7.0\task41Home.AssemblyInfo.cs
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\obj\Debug\net7.0\task41Home.csproj.CoreCompileInputs.cache
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\bin\Debug\net7.0\task41Home.exe
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\bin\Debug\net7.0\task41Home.deps.json
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\bin\Debug\net7.0\task41Home.runtimeconfig.json
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\bin\Debug\net7.0\task41Home.dll
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\bin\Debug\net7.0\task41Home.pdb
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\obj\Debug\net7.0\task41Home.dll
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\obj\Debug\net7.0\refint\task41Home.dll
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\obj\Debug\net7.0\task41Home.pdb
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\obj\Debug\net7.0\task41Home.genruntimeconfig.cache
+C:\Users\semen\Desktop\GB\L3 C#_6\task41Home\obj\Debug\net7.0\ref\task41Home.dll

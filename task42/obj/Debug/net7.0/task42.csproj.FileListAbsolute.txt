@@ -1,0 +1,15 @@
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\bin\Debug\net7.0\task42.exe
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\bin\Debug\net7.0\task42.deps.json
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\bin\Debug\net7.0\task42.runtimeconfig.json
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\bin\Debug\net7.0\task42.dll
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\bin\Debug\net7.0\task42.pdb
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\obj\Debug\net7.0\task42.csproj.AssemblyReference.cache
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\obj\Debug\net7.0\task42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\obj\Debug\net7.0\task42.AssemblyInfoInputs.cache
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\obj\Debug\net7.0\task42.AssemblyInfo.cs
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\obj\Debug\net7.0\task42.csproj.CoreCompileInputs.cache
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\obj\Debug\net7.0\task42.dll
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\obj\Debug\net7.0\refint\task42.dll
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\obj\Debug\net7.0\task42.pdb
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\obj\Debug\net7.0\task42.genruntimeconfig.cache
+C:\Users\semen\Desktop\GB\L3 C#_6\task42\obj\Debug\net7.0\ref\task42.dll
